@@ -1,27 +1,28 @@
-# Abdelrhman El-Saeed
-**Software Engineer | .NET Backend Developer**
+# Abdelrhman Elsaid | .NET Backend Developer
+**Electronics and Communications Engineering Graduate**
 
 ---
 
-### 🟢 System Status: Active
-Currently architecting a high-scalability **Learning Management & Examination System** using ASP.NET Core Web API.
-
-### ⚙️ Core Modules (Stack)
-- **Logic Engine:** C# | .NET 8+ | ASP.NET Core (Web API & MVC)
-- **Persistence:** SQL Server | EF Core | LINQ | ADO.NET
-- **Infrastructure:** HCIA-Datacom Certified (Network Security & Routing)
-- **Methodology:** SOLID | Repository Pattern | 3-Tier Architecture
-
-### 🚀 Production Highlights
-- **OOP Bank System (C++):** A robust multi-layered system implementing strict RBAC via bitwise operations and a clean audit trail.
-- **Tic-Tac-Toe Engine (C#):** WinForms application focusing on decoupled game logic and state management using Enums/Structs.
-
-### 🧠 System Maintenance & Learning
-I treat technical growth as an engineering process, utilizing **Obsidian** for building a technical second brain and **Anki** for long-term retention of system design patterns and algorithms.
+### 🎓 Academic Background
+* **University:** Mansoura University, Faculty of Engineering.
+* **Major:** Electronics and Communications Engineering (2020 – 2025).
+* **Core Competencies:** Data Structures, Database Systems, Computer Science Fundamentals, and Software Engineering.
 
 ---
 
-### 📫 Communication Port
-- **Email:** [abdelrhman.ahmed.elsaeed@gmail.com](mailto:abdelrhman.ahmed.elsaeed@gmail.com)
-- **LinkedIn:** [Abdelrhman El-Saeed](https://www.linkedin.com/in/abdelrhman-elsaeed)
-- **Location:** Cairo, Egypt
+### 💻 Engineering & Technical Proficiency
+
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Backend Development** | C#, .NET 10+, ASP.NET Core (Web API & MVC), .NET Framework. |
+| **Architecture & Design** | Clean Architecture, 3-Tier Architecture, Repository Pattern, SOLID Principles, Design Patterns. |
+| **Databases & ORM** | SQL Server, Entity Framework (EF Core), LINQ, ADO.NET. |
+| **Networking & Security** | HCIA-Datacom Certified, TCP/IP, OSI Models, Network Security Policies (ACLs, NAT), OSPF, VLAN. |
+| **Tools & Methodology** | Git/GitHub, Prompt Engineering, Advanced Problem Solving. |
+
+---
+
+### 📬 Connection
+* **LinkedIn:** [linkedin.com/in/abdelrhman-elsaeed](https://www.linkedin.com/in/abdelrhman-elsaeed)
+* **Email:** abdelrhman.ahmed.elsaeed@gmail.com
+* **Location:** Cairo, Egypt.
