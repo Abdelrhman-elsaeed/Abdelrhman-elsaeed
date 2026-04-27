@@ -23,6 +23,6 @@
 ---
 
 ### 📬 Connection
-* **LinkedIn:** [linkedin.com/in/abdelrhman-elsaeed](https://www.linkedin.com/in/abdelrhman-elsaeed)
+* **LinkedIn:** [linkedin.com/in/abdelrhman-elsaeed](https://www.linkedin.com/in/elsaeed/)
 * **Email:** abdelrhman.ahmed.elsaeed@gmail.com
 * **Location:** Cairo, Egypt.
